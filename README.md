@@ -2,12 +2,13 @@
 
 Sou Desenvolvedora de Software Sênior com experiência em desenvolvimento de sistemas ERP, bancos de dados e liderança técnica.
 
-🎯 Atualmente em transição para Engenharia de Software Full Stack.
+🎯 Atualmente aprofundando meus conhecimentos em Engenharia de Software Full Stack, com foco em arquitetura moderna, cloud e aplicações escaláveis.
 
 ## 🚀 Estudando
 
 - ASP.NET Core
 - React
+- TypeScript
 - PostgreSQL
 - Docker
 - Azure
@@ -20,6 +21,7 @@ Sou Desenvolvedora de Software Sênior com experiência em desenvolvimento de si
 - SQL
 - Firebird
 - Git
+- .Net
 
 ## 📚 Projeto atual
 
