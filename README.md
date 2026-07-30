@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou a Mônica 👋
 
-<!--
-**MonicaLima5006/MonicaLima5006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedora de Software Sênior com experiência em desenvolvimento de sistemas ERP, bancos de dados e liderança técnica.
 
-Here are some ideas to get you started:
+🎯 Atualmente em transição para Engenharia de Software Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Estudando
+
+- ASP.NET Core
+- React
+- PostgreSQL
+- Docker
+- Azure
+- Kubernetes
+
+## 💻 Tecnologias
+
+- C#
+- Delphi
+- SQL
+- Firebird
+- Git
+
+## 📚 Projeto atual
+
+Software Engineering Roadmap
+
+> Documentando minha evolução durante um plano de estudos de 1 ano para Engenharia de Software.
